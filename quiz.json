@@ -1,15 +1,15 @@
 [
   {
-    "question": "[01/20] ශ්‍රී ලංකාවේ 'ප්‍රධානතම ගිනිකඳු ක්‍රියාකාරකමක්' සිදු වූ අවසන් වරට සැලකෙන්නේ කවදාද?",
-    "options": ["ක්‍රි.පූ. 2 වන සියවස", "ක්‍රි.ව. 1 වන සියවස", "ක්‍රි.ව. 7 වන සියවස", "ශ්‍රී ලංකාවේ ගිනිකඳු නොමැත"],
-    "answer": 3,
-    "explanation": "ශ්‍රී ලංකාව ගිනිකඳු ක්‍රියාකාරකම් නොමැති රටකි."
+    "question": "[01/20] ICT හි 'CPU' යනු කුමක්ද?",
+    "options": ["Central Processing Unit", "Computer Primary Unit", "Central Program Utility", "Control Processing Unit"],
+    "answer": 0,
+    "explanation": "CPU යනු Central Processing Unit ය."
   },
   {
-    "question": "[02/20] ලෝකයේ 'නයිට් ඔෆ් ද ඩෝන්' ලෙස හැඳින්වෙන පුද්ගලයා කවුද?",
-    "options": ["නෙල්සන් මැන්ඩෙලා", "මාර්ටින් ලූතර් කිං", "මහාත්මා ගාන්ධි", "නෝමන් ඩේවිස්"],
-    "answer": 3,
-    "explanation": "දෙවන ලෝක යුද්ධයේදී යුද සිරකරුවන් බේරාගත් නිසා නෝමන් ඩේවිස් 'නයිට් ඔෆ් ද ඩෝන්' ලෙස හැඳින්වේ."
+    "question": "[02/20] 'Romeo and Juliet' කෘතිය ලියා තිබෙන්නේ කවුද?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+    "answer": 0,
+    "explanation": "Romeo and Juliet කෘතිය ලියා තිබෙන්නේ William Shakespeare ය."
   },
   {
     "question": "[03/20] ICT හි 'HTTP' යනු කුමක්ද?",
@@ -98,14 +98,14 @@
   {
     "question": "[17/20] 7² + 3² = ?",
     "options": ["49", "58", "59", "60"],
-    "answer": 2,
-    "explanation": "7² + 3² = 49 + 9 = 58. (ඉහත පිළිතුර 58 විය යුතුය)."
+    "answer": 1,
+    "explanation": "7² + 3² = 49 + 9 = 58 වේ."
   },
   {
     "question": "[18/20] 200 ÷ 25 = ?",
     "options": ["5", "8", "9", "10"],
-    "answer": 3,
-    "explanation": "200 ÷ 25 = 8. (සමාවෙන්න, නිවැරදි පිළිතුර 8 වේ, option 1)."
+    "answer": 1,
+    "explanation": "200 ÷ 25 = 8 වේ."
   },
   {
     "question": "[19/20] ICT හි LAN යනු?",
