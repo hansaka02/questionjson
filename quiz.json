@@ -1,6 +1,6 @@
 [
   {
-    "question": "[01/20] ICT හි 'CPU' යනු කුමක්ද?",
+    "question": "[01/20] පරිඝනකයේ 'CPU' යනු කුමක්ද?",
     "options": ["Central Processing Unit", "Computer Primary Unit", "Central Program Utility", "Control Processing Unit"],
     "answer": 0,
     "explanation": "CPU යනු Central Processing Unit ය."
@@ -12,8 +12,8 @@
     "explanation": "Romeo and Juliet කෘතිය ලියා තිබෙන්නේ William Shakespeare ය."
   },
   {
-    "question": "[03/20] ICT හි 'HTTP' යනු කුමක්ද?",
-    "options": ["Hyper Text Transfer Protocol", "High Tech Transfer Program", "Hyperlink Test Protocol", "Home Text Transfer Path"],
+    "question": "[03/20] 'ALDB'නම් දත්ත සමුදාය මකාදැමීමට බාවිත කරන SQL ප්‍රකාශය කුමක්ද?",
+    "options": ["drop database ALDB", "delete database ALDB", "remove ALDB", "remove database ALDB"],
     "answer": 0,
     "explanation": "HTTP යනු Hyper Text Transfer Protocol ය."
   },
@@ -42,7 +42,7 @@
     "explanation": "මුද්‍රණ යන්ත්‍රය සොයාගත්තේ නවෝත්ථාපන යුගයේදීය."
   },
   {
-    "question": "[08/20] ශ්‍රී ලංකාවේ පළමු විජය රාජාව කවුරුන්ද?",
+    "question": "[08/20] ශ්‍රී ලංකාවේ පළමු  රජු කවුරුන්ද?",
     "options": ["දුටුගැමුනු", "විජය", "පරාක්‍රමබාහු", "වීරපරක්‍රමබාහු"],
     "answer": 1,
     "explanation": "ශ්‍රී ලංකාවේ පළමු රාජාව විජය රජතුමාය."
@@ -85,13 +85,13 @@
   },
   {
     "question": "[15/20] ශ්‍රී ලංකාවේ දුටුගැමුනු රජු ගොඩනගා ඇති සෙරුවිළ ධාතුස්ථානය පිහිටි ප්‍රදේශය කුමක්ද?",
-    "options": ["අනුරාධපුරය", "මොනරාගල", "ත්‍රින්කමලි", "කුරුණෑගල"],
+    "options": ["අනුරාධපුරය", "මොනරාගල", "ත්‍රීකුනාමලය", "කුරුණෑගල"],
     "answer": 2,
-    "explanation": "සෙරුවිළ ධාතුස්ථානය පිහිටියේ ත්‍රින්කමලි ය."
+    "explanation": "සෙරුවිළ ධාතුස්ථානය පිහිටියේ ත්‍රීකුණාමලය ය."
   },
   {
     "question": "[16/20] දුටුගැමුනු රජු සටන් පටන් ගත්තේ කා සමගද?",
-    "options": ["ඉලාරා", "විජය", "පරාක්‍රමබාහු", "ගැසින්ගට"],
+    "options": ["එලාරා", "විජය", "පරාක්‍රමබාහු", "ගැසින්ගට"],
     "answer": 0,
     "explanation": "දුටුගැමුනු රජු සටන් පටන් ගත්තේ ද්‍රවිඩ රජවරුන්ගෙන් ඉලාරා සමගය."
   },
