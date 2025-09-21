@@ -1,122 +1,122 @@
 [
   {
-    "question": "[01/20] පරිඝනකයේ 'CPU' යනු කුමක්ද?",
-    "options": ["Central Processing Unit", "Computer Primary Unit", "Central Program Utility", "Control Processing Unit"],
-    "answer": 0,
-    "explanation": "CPU යනු Central Processing Unit ය."
-  },
-  {
-    "question": "[02/20] 'Romeo and Juliet' කෘතිය ලියා තිබෙන්නේ කවුද?",
-    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
-    "answer": 0,
-    "explanation": "Romeo and Juliet කෘතිය ලියා තිබෙන්නේ William Shakespeare ය."
-  },
-  {
-    "question": "[03/20] 'ALDB'නම් දත්ත සමුදාය මකාදැමීමට බාවිත කරන SQL ප්‍රකාශය කුමක්ද?",
-    "options": ["drop database ALDB", "delete database ALDB", "remove ALDB", "remove database ALDB"],
-    "answer": 0,
-    "explanation": "HTTP යනු Hyper Text Transfer Protocol ය."
-  },
-  {
-    "question": "[04/20] Microsoft Word හි 'Ctrl + S' shortcut යොදාගන්නේ කුමකටද?",
-    "options": ["Document එක print කිරීම", "Document එක save කිරීම", "Document එක close කිරීම", "Document එක copy කිරීම"],
-    "answer": 1,
-    "explanation": "Ctrl + S යොදාගන්නේ Document එක save කිරීමටයි."
-  },
-  {
-    "question": "[05/20] 'Rome was not built in a day' කියමනෙන් අදහස් කරන්නේ කුමක්ද?",
-    "options": ["සියල්ල වේගයෙන් කරන්න", "ගොඩනගා ගැනීම පහසුය", "විශාල දේවල් කිරීමට කාලය ගතවේ", "ගොඩනගා ගැනීම නතර කරනවා"],
+    "question": "[01/20] ICT යටතේ Moore’s Law අනුව microchip වල transistor ගණන ____________ කාලයකට වරක් දෙගුණ වේ.",
+    "options": ["දින 90", "අවුරුදු 1", "අවුරුදු 2", "අවුරුදු 5"],
     "answer": 2,
-    "explanation": "මෙම ප්‍රකාශයෙන් අදහස් කරන්නේ විශාල දේවල් කිරීමට කාලය ගතවිය යුතු බවයි."
+    "explanation": "Moore’s Law අනුව microchip එකක transistor ගණන සෑම අවුරුදු 2කටම දෙගුණ වේ."
   },
   {
-    "question": "[06/20] 'He runs as fast as a cheetah' යනු කුමන figure of speech එකකි?",
-    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
-    "answer": 0,
-    "explanation": "‘as’ සහ ‘like’ යොදාගන්නා විට Simile වේ."
-  },
-  {
-    "question": "[07/20] කුමන යුගයේදී ගුටනබර්ග් මුද්‍රණ යන්ත්‍රය සොයාගන්නා ලදිද?",
-    "options": ["මධ්‍යයුගය", "අධෝගති යුගය", "නවෝත්ථාපන යුගය", "කර්මාන්ත යුගය"],
+    "question": "[02/20] IPv6 හි එක්තැන් කරන ලද ප්‍රධාන ලක්ෂණය (salient feature) කුමක්ද?",
+    "options": ["32-bit addresses", "64-bit addresses", "128-bit addresses", "256-bit addresses"],
     "answer": 2,
-    "explanation": "මුද්‍රණ යන්ත්‍රය සොයාගත්තේ නවෝත්ථාපන යුගයේදීය."
+    "explanation": "IPv6 හි ඇඩ්රස් දිග bit 128කි."
   },
   {
-    "question": "[08/20] ශ්‍රී ලංකාවේ පළමු  රජු කවුරුන්ද?",
-    "options": ["දුටුගැමුනු", "විජය", "පරාක්‍රමබාහු", "වීරපරක්‍රමබාහු"],
-    "answer": 1,
-    "explanation": "ශ්‍රී ලංකාවේ පළමු රාජාව විජය රජතුමාය."
-  },
-  {
-    "question": "[09/20] 25 × 4 = ?",
-    "options": ["50", "75", "100", "125"],
-    "answer": 2,
-    "explanation": "25 × 4 = 100 වේ."
-  },
-  {
-    "question": "[10/20] √144 = ?",
-    "options": ["10", "11", "12", "14"],
-    "answer": 2,
-    "explanation": "144 න් වර්ගමූලය 12 වේ."
-  },
-  {
-    "question": "[11/20] ICT හි RAM stands for?",
-    "options": ["Read Access Memory", "Random Access Memory", "Ready Active Memory", "Real Allocation Memory"],
-    "answer": 1,
-    "explanation": "RAM යනු Random Access Memory වේ."
-  },
-  {
-    "question": "[12/20] Computer එකේ Hard Disk එකේ මුල් භූමිකාව කුමක්ද?",
-    "options": ["දත්ත ගබඩා කිරීම", "දත්ත input කිරීම", "දත්ත output කිරීම", "දත්ත print කිරීම"],
+    "question": "[03/20] 'Synecdoche' නම් වාග්‍යාලංකාර උපක්‍රමයේ භාවිතය කුමක්ද?",
+    "options": ["කොටසක් මගින් සමස්තයක් නිරූපණය කිරීම", "අතිශයෝක්තිය", "මානවීකරණය", "පරස්පර විරෝධී බව"],
     "answer": 0,
-    "explanation": "Hard Disk එක භාවිතා කරන්නේ දත්ත ගබඩා කිරීමටයි."
+    "explanation": "Synecdoche යනු සමස්තයක් නිරූපණය කිරීම සඳහා එහි කොටසක් භාවිතා කිරීමයි (උදා: 'all hands on deck')."
   },
   {
-    "question": "[13/20] 'To spill the beans' කියමනෙන් අදහස් කරන්නේ කුමක්ද?",
-    "options": ["බෝන්ස් ඇඟවීම", "රහසක් හෙළි කිරීම", "අසංඛ්‍ය දේවල්", "ගෙවී ගිය කාලය"],
-    "answer": 1,
-    "explanation": "මෙම idiom එකෙන් අදහස් කරන්නේ රහසක් හෙළි කිරීමයි."
-  },
-  {
-    "question": "[14/20] 'Pride and Prejudice' කෘතිය ලියූ ලේඛිකාව කවුද?",
-    "options": ["Jane Austen", "Charlotte Brontë", "Emily Dickinson", "Virginia Woolf"],
+    "question": "[04/20] 'The Waste Land' කාව්‍යය රචනා කළේ කවුරුන්ද?",
+    "options": ["T.S. Eliot", "W.B. Yeats", "Sylvia Plath", "Robert Frost"],
     "answer": 0,
-    "explanation": "Pride and Prejudice කෘතිය ලියූයේ Jane Austen ය."
+    "explanation": "නවීන ගොඩනැගිල්ලක් (modernist masterpiece) වන 'The Waste Land' රචනා කළේ T.S. Eliot ය."
   },
   {
-    "question": "[15/20] ශ්‍රී ලංකාවේ දුටුගැමුනු රජු ගොඩනගා ඇති සෙරුවිළ ධාතුස්ථානය පිහිටි ප්‍රදේශය කුමක්ද?",
-    "options": ["අනුරාධපුරය", "මොනරාගල", "ත්‍රීකුනාමලය", "කුරුණෑගල"],
+    "question": "[05/20] ග්‍රීක නාට්‍ය කලාවේදී 'Tragedy' යන වචනයේ මුල් අර්ථය කුමක්ද?",
+    "options": ["දුක්බර කථාව", "එළු ගීතය (Goat song)", "වීරයෙකුගේ පතනය", "පුරාවෘත්ත නාට්‍යය"],
+    "answer": 1,
+    "explanation": "ග්‍රීක 'Tragoidia' යන වචනයේ අර්ථය 'එළු ගීතය' යන්නයි."
+  },
+  {
+    "question": "[06/20] ප්‍රාග්ඌතිහාසික යුගයේදී 'Neolithic Revolution' යන්නෙන් අදහස් කරන්නේ කුමක්ද?",
+    "options": ["කාර්මික විප්ලවය", "කෘෂිකර්මය හා ස්ථිර ජනාවාස වෙත මාරු වීම", "ලෝක යුද්ධය", "වංශ සංහාරය"],
+    "answer": 1,
+    "explanation": "Neolithic Revolution යනු කෘෂිකර්මය හා ස්ථිර ජනාවාස වලට මාරු වීමේ කාලපරිච්ඡේදයයි."
+  },
+  {
+    "question": "[07/20] 'Magna Carta' 1215 දී අත්සන් කළේ කවුරුන් විසින්ද?",
+    "options": ["එංගලන්තයේ ජෝන් රජු", "හෙන්රි VIII", "රිචඩ් සිංහහදයා", "එඩ්වඩ් I"],
+    "answer": 0,
+    "explanation": "1215 දී එංගලන්තයේ ජෝන් රජු විසින් Magna Carta අත්සන් කරන ලදී."
+  },
+  {
+    "question": "[08/20] ශ්‍රී ලංකාවේ පළමු ජාතික ගජමාරු සටන වාර්තා වී ඇත්තේ කාගේ රාජ්‍ය සමයේදීද?",
+    "options": ["දුටුගැමුණු", "එලාර", "පරාක්‍රමබාහු I", "විජයබාහු I"],
+    "answer": 0,
+    "explanation": "දුටුගැමුණු රජුගේ රාජ්‍ය සමයේදී ශ්‍රී ලංකාවේ පළමු වාර්තාගත ගජමාරු සටන සිදු විය."
+  },
+  {
+    "question": "[09/20] sin²θ + cos²θ = ?",
+    "options": ["0", "1", "2", "θ"],
+    "answer": 1,
+    "explanation": "මෙය ත්‍රිකෝණමිතික පයිතගරස් අනන්යතාවයකි (identity): sin²θ + cos²θ = 1."
+  },
+  {
+    "question": "[10/20] ln(e³) = ?",
+    "options": ["1", "3", "e", "e³"],
+    "answer": 1,
+    "explanation": "ස්වාභාවික ලඝුගණක හි නිර්වචනය අනුව ln(e³) = 3."
+  },
+  {
+    "question": "[11/20] O(1) time complexity යන්නෙන් අදහස් කරන්නේ කුමක්ද?",
+    "options": ["ස්ථිර කාල සංකීර්ණතාව (Constant time)", "රේඛීය කාල සංකීර්ණතාව (Linear time)", "ද්විඝාත කාල සංකීර්ණතාව (Quadratic time)", "ඝාතීය කාල සංකීර්ණතාව (Exponential time)"],
+    "answer": 0,
+    "explanation": "O(1) යනු ස්ථිර කාල සංකීර්ණතාව (Constant time complexity) ය."
+  },
+  {
+    "question": "[12/20] RSA algorithm හි පදනම කුමක්ද?",
+    "options": ["මූලික සංඛ්‍යා වල සාධකකරණය (Prime factorization)", "ද්විමය ගවේෂණය (Binary search)", "ක්‍රමානුසාරය (Sorting)", "හෑෂ් කිරීම (Hashing)"],
+    "answer": 0,
+    "explanation": "RSA algorithm හි ආරක්ෂිත භාවය මූලික සංඛ්‍යා වල සාධකකරණය මත පදනම් වේ."
+  },
+  {
+    "question": "[13/20] 'Ozymandias' කාව්‍යය රචනා කළේ කවුරුන්ද?",
+    "options": ["Percy Bysshe Shelley", "Lord Byron", "John Keats", "William Blake"],
+    "answer": 0,
+    "explanation": "‘Ozymandias’ රචනා කළේ Percy Bysshe Shelley ය."
+  },
+  {
+    "question": "[14/20] 'To sleep, perchance to dream' යන වාක්‍යාංශය ගෙන තිබෙන්නේ කුමන නාට්‍යයකින්ද?",
+    "options": ["Macbeth", "Othello", "Hamlet", "King Lear"],
     "answer": 2,
-    "explanation": "සෙරුවිළ ධාතුස්ථානය පිහිටියේ ත්‍රීකුණාමලය ය."
+    "explanation": "මෙම ප්‍රසිද්ධ වාක්‍යාංශය 'Hamlet' නාට්‍යයෙන් උපුටා ගෙන ඇත."
   },
   {
-    "question": "[16/20] දුටුගැමුනු රජු සටන් පටන් ගත්තේ කා සමගද?",
-    "options": ["එලාරා", "විජය", "පරාක්‍රමබාහු", "ගැසින්ගට"],
-    "answer": 0,
-    "explanation": "දුටුගැමුනු රජු සටන් පටන් ගත්තේ ද්‍රවිඩ රජවරුන්ගෙන් ඉලාරා සමගය."
-  },
-  {
-    "question": "[17/20] 7² + 3² = ?",
-    "options": ["49", "58", "59", "60"],
+    "question": "[15/20] ලතින් භාෂාවෙන් 'Pax Romana' යන්නෙන් අදහස් කරන්නේ කුමක්ද?",
+    "options": ["රෝම යුද්ධය", "රෝම සාමය", "රෝම ආගම", "රෝම සෙනෙට් සභාව"],
     "answer": 1,
-    "explanation": "7² + 3² = 49 + 9 = 58 වේ."
+    "explanation": "Pax Romana යනු රෝම සාමය යන්නයි."
   },
   {
-    "question": "[18/20] 200 ÷ 25 = ?",
-    "options": ["5", "8", "9", "10"],
-    "answer": 1,
-    "explanation": "200 ÷ 25 = 8 වේ."
-  },
-  {
-    "question": "[19/20] ICT හි LAN යනු?",
-    "options": ["Local Area Network", "Large Access Network", "Logical Area Node", "Link Access Net"],
+    "question": "[16/20] ඉන්දියාවේ අශෝක රජු ප්‍රසිද්ධ වන්නේ කුමක් නිසාද?",
+    "options": ["බුද්ධාගම ප්‍රචාරය කිරීම", "විශුද්ධ යුධ ව්‍යාපාර", "හින්දු ආගම පුනර්ජීවනය කිරීම", "වාණිජ්‍යය ව්‍යාප්ත කිරීම"],
     "answer": 0,
-    "explanation": "LAN යනු Local Area Network ය."
+    "explanation": "අශෝක රජු බුද්ධාගම ප්‍රචාරය කිරීම නිසා ප්‍රසිද්ධය."
   },
   {
-    "question": "[20/20] WWW සොයාගත්තේ කවුද?",
-    "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
-    "answer": 2,
-    "explanation": "World Wide Web සොයාගත්තේ Tim Berners-Lee ය."
+    "question": "[17/20] ∫ x² dx = ?",
+    "options": ["x³ + C", "x³/3 + C", "2x + C", "3x² + C"],
+    "answer": 1,
+    "explanation": "අනිශ්චිත අනුකලනයේ රීති අනුව ∫ x² dx = x³/3 + C."
+  },
+  {
+    "question": "[18/20] Limit: lim (x→0) (sin x / x) = ?",
+    "options": ["0", "1", "∞", "අර්ථ දක්වා නැත"],
+    "answer": 1,
+    "explanation": "මූලික සීමාවක් වන lim (x→0) (sin x / x) = 1."
+  },
+  {
+    "question": "[19/20] ICT යටතේ hashing function එකක මූලික කාර්යභාරය කුමක්ද?",
+    "options": ["ගුප්තකේතනය (Encryption)", "දත්ත අඛණ්ඩතාව හා සුචිගත කිරීම (Data integrity & indexing)", "සංයුක්ත කිරීම (Compression)", "ක්‍රමානුසාරය (Sorting)"],
+    "answer": 1,
+    "explanation": "Hash functions මූලික වශයෙන් භාවිතා වන්නේ දත්ත අඛණ්ඩතාව (data integrity) පරීක්ෂා කිරීම සහ දත්ත සුචිගත කිරීම (indexing) සඳහා ය."
+  },
+  {
+    "question": "[20/20] කෘත්‍රිම බුද්ධිය (Artificial Intelligence) යටතේ 'Turing Test' යන්නෙන් අදහස් කරන්නේ කුමක්ද?",
+    "options": ["පරිගණකයක් කේතනය කිරීමේ හැකියාව", "මිනිස් ආකාරයේ බුද්ධිමත් හැසිරීම් පෙන්වීම", "දෘඩාංග (Hardware) කාර්යක්ෂමතාව", "ඇල්ගොරිතම වේගය"],
+    "answer": 1,
+    "explanation": "Turing Test යනු යන්ත්‍රයකට මිනිසුන්ගේ බුද්ධිමත් හැසිරීම් පෙන්විය හැකිද යන්න පරීක්ෂා කිරීමේ ක්‍රමවේදයකි."
   }
 ]
